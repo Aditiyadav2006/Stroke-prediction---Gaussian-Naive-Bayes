@@ -10,7 +10,7 @@ The **Gaussian Naive Bayes (GNB)** classifier was chosen for its computational e
 
 | File Name | Description |
 | :--- | :--- |
-| `Stroke prediction_GaussianNB.ipynb` | The main Jupyter Notebook containing the data preprocessing, Gaussian Naive Bayes model training, and performance evaluation. |
+| `Stroke prediction_GaussianNB.py` | The main Jupyter Notebook containing the data preprocessing, Gaussian Naive Bayes model training, and performance evaluation. |
 | `data-10.csv` | The dataset containing patient records with health factors and the binary stroke outcome. |
 | `README.md` | This overview file. |
 
